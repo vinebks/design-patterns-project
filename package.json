@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinebks/design-patterns-project.git",
+  "author": "vinicius <vinicius.jesus@hubfintech.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prettier": "^2.4.4",
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
