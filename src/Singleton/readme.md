@@ -13,3 +13,7 @@ Garatir que uma classe tenha somente uma instância no programa e fornecer um po
 - Voce pode permitir acesso global ao singleton em toda a sua aplicaçao, assim como faziamos/fazemos com variaveis globais.
 
 - Uma vantagem do singleton é que podemos proteger a instância com encapsulamento, evitando que outro codigo sobscreva seu valor.
+
+3 - Aplicabilidade
+
+- Use o Singleton quando uma classe precisa ter somente uma instância disponivel em todo o seu programa
